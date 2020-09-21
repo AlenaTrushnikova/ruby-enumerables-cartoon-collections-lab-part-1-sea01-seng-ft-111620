@@ -3,7 +3,7 @@ def greet_characters(array)
   #
   # Print a custom greeting for each element
   array.each do |array|
-   puts "#{array.capitalize} wants to start a union!"
+   puts "Hello #{array.capitalize}!"
   end  
 end
 
